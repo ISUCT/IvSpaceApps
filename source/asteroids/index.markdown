@@ -6,4 +6,9 @@ comments: true
 sharing: true
 footer: true
 ---
-<a href="{{ root_url}}/asteroids/asteroidprospector.html">Asteroids prospector</a>.
+<img src="../images/asteroids-thumb.png" alt="asteroids" />
+
+<a href="{{ root_url}}/asteroids/asteroidprospector.html">Asteroids prospector (Астероидный разведчик)</a>.
+
+Разработайте игру, моделирующую путешествие по солнечной системе, перелетая от астероида к астероиду.
+
