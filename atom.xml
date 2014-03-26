@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://ISUCT.github.io/IvSpaceApps/atom.xml" rel="self"/>
+  <link href="http://ISUCT.github.io/IvSpaceApps/"/>
+  <updated>2014-03-26T10:33:50+04:00</updated>
+  <id>http://ISUCT.github.io/IvSpaceApps/</id>
+  <author>
+    <name><![CDATA[jskonst]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
