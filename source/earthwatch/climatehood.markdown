@@ -15,7 +15,7 @@ footer: true
 
 Автор перевода: Трефилова Наталья <a href="https://twitter.com/MioNavlika">@MioNavlika</a>
 
-##Климат моей области
+##Климат вокруг меня
 
 **Описание задания**
 
