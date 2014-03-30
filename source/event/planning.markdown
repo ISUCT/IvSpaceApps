@@ -6,6 +6,9 @@ comments: true
 sharing: true
 footer: true
 ---
+## Hackpad документ для обсуждения
+<a href = "https://spaceapps.hackpad.com/IvSpaceApps-AAXrGoJvoVy">Hackpad</a> - документ, доступный для глобального редактирования. Для каждого из challenges доступен свой Hackpad.
+
 ## Краткий список тем и направлений
 
 1. Взаимодействие роботов, что делать если один из роботов застрял
