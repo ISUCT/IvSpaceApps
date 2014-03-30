@@ -1,51 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://ISUCT.github.io/IvSpaceApps/techinspace/</loc>
-        <lastmod>2014-03-26T11:22:56+04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ISUCT.github.io/IvSpaceApps/humanspaceflight/</loc>
-        <lastmod>2014-03-26T11:22:24+04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ISUCT.github.io/IvSpaceApps/earthwatch/</loc>
-        <lastmod>2014-03-29T20:50:55+04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ISUCT.github.io/IvSpaceApps/earthwatch/climatehood.html</loc>
-        <lastmod>2014-03-29T20:50:55+04:00</lastmod>
-    </url>
-    <url>
         <loc>http://ISUCT.github.io/IvSpaceApps/robotics/</loc>
-        <lastmod>2014-03-26T11:22:35+04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ISUCT.github.io/IvSpaceApps/blog/archives/</loc>
-        <lastmod>2014-03-26T10:07:46+04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ISUCT.github.io/IvSpaceApps/</loc>
-        <lastmod>2014-03-26T10:07:46+04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ISUCT.github.io/IvSpaceApps/event/planning.html</loc>
-        <lastmod>2014-03-30T22:40:07+04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ISUCT.github.io/IvSpaceApps/event/</loc>
-        <lastmod>2014-03-30T16:06:59+04:00</lastmod>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
     </url>
     <url>
         <loc>http://ISUCT.github.io/IvSpaceApps/robots.txt</loc>
-        <lastmod>2014-03-26T10:07:46+04:00</lastmod>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ISUCT.github.io/IvSpaceApps/event/</loc>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ISUCT.github.io/IvSpaceApps/event/planning.html</loc>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ISUCT.github.io/IvSpaceApps/humanspaceflight/</loc>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ISUCT.github.io/IvSpaceApps/earthwatch/climatehood.html</loc>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ISUCT.github.io/IvSpaceApps/earthwatch/</loc>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
     </url>
     <url>
         <loc>http://ISUCT.github.io/IvSpaceApps/asteroids/</loc>
-        <lastmod>2014-03-30T13:06:37+04:00</lastmod>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
     </url>
     <url>
         <loc>http://ISUCT.github.io/IvSpaceApps/asteroids/asteroidprospector.html</loc>
-        <lastmod>2014-03-30T13:06:37+04:00</lastmod>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ISUCT.github.io/IvSpaceApps/blog/archives/</loc>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ISUCT.github.io/IvSpaceApps/</loc>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ISUCT.github.io/IvSpaceApps/techinspace/</loc>
+        <lastmod>2014-03-30T22:55:54+04:00</lastmod>
     </url>
 </urlset>
