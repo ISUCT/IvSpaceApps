@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Coastal Inundation in Your Community"
-date: 2014-03-28 10:33
+date: 2014-04-01 00:33
 comments: true
 sharing: true
 footer: true
@@ -54,15 +54,14 @@ footer: true
 
 **Ресурсы**:
 
-https://hazards.fema.gov/femaportal/NFHL/
-http://fema.maps.arcgis.com/home/webmap/viewer.html?webmap=cbe088e7c8704464aa0fc34eb99e7f30
-http://www.csc.noaa.gov/slr
-http://www.csc.noaa.gov/ArcGISPUB/rest/services/dc_slr
-http://marine.usgs.gov/coastalchangehazardsportal/
-http://maps.csc.noaa.gov/arcgis/rest/services/Roadmap/RoadmapPilot_HazardComposite/MapServer
-http://www.csc.noaa.gov/ArcGISPUB/rest/services/dc_slr/Flood_Frequency/MapServer
-http://www.csc.noaa.gov/ArcGISPUB/rest/services/sovi/sovi_blockgroups/MapServer
-http://csc.noaa.gov/ArcGISPUB/rest/services/enow
-http://climate.data.gov/climate/climate-resources
-
+* https://hazards.fema.gov/femaportal/NFHL/
+* http://fema.maps.arcgis.com/home/webmap/viewer.html?webmap=cbe088e7c8704464aa0fc34eb99e7f30
+* http://www.csc.noaa.gov/slr
+* http://www.csc.noaa.gov/ArcGISPUB/rest/services/dc_slr
+* http://marine.usgs.gov/coastalchangehazardsportal/
+* http://maps.csc.noaa.gov/arcgis/rest/services/Roadmap/RoadmapPilot_HazardComposite/MapServer
+* http://www.csc.noaa.gov/ArcGISPUB/rest/services/dc_slr/Flood_Frequency/MapServer
+* http://www.csc.noaa.gov/ArcGISPUB/rest/services/sovi/sovi_blockgroups/MapServer
+* http://csc.noaa.gov/ArcGISPUB/rest/services/enow
+* http://climate.data.gov/climate/climate-resources
 
