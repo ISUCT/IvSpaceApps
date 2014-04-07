@@ -20,6 +20,6 @@ footer: true
 
 Импортируйте спутниковые снимки из системы Global Imagery Browse Services (NASA GIBS), чтобы показать, как Земля изменилась в течение последних двух лет.
 
-<a href="{{ root_url}}/earthwatch/anitaairnow.html">Irnow international transport app (ANITA)</a>
+<a href="{{ root_url}}/earthwatch/anitaairnow.html">AirNow international transport app (ANITA)</a>
 
 Создайте приложение, которое показывает, как крупномасштабные международные события, влияющие на качество воздуха, связаны с повседневным данными Индекса качества воздуха (AQI).
