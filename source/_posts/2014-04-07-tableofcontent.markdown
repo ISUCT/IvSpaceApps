@@ -1,12 +1,19 @@
 ---
-layout: page
-title: "Earth watch"
-date: 2014-03-26 11:18
+layout: post
+title: "Table of content"
+date: 2014-04-07 11:10:57 +0400
 comments: true
-sharing: true
-footer: true
+categories: 
 ---
-<img src="../images/earth watch-thumb.png" alt="earth" />
+## Список переводов
+
+<img src="images/asteroids-thumb.png" alt="asteroids" />
+
+<a href="{{ root_url}}/asteroids/asteroidprospector.html">Asteroids prospector (Астероидный разведчик)</a>.
+
+Разработайте игру, моделирующую путешествие по Солнечной системе, перелетая от астероида к астероиду.
+
+<img src="images/earth watch-thumb.png" alt="earth" />
 
 <a href="{{ root_url}}/earthwatch/climatehood.html">Climate and My Neighborhood (Климат вокруг меня)</a>.
 
