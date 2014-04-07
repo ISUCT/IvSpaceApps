@@ -4,7 +4,7 @@
   <title><![CDATA[International Space Apps Challenge]]></title>
   <link href="http://ISUCT.github.io/IvSpaceApps/atom.xml" rel="self"/>
   <link href="http://ISUCT.github.io/IvSpaceApps/"/>
-  <updated>2014-04-07T11:14:23+04:00</updated>
+  <updated>2014-04-07T11:22:58+04:00</updated>
   <id>http://ISUCT.github.io/IvSpaceApps/</id>
   <author>
     <name><![CDATA[jskonst]]></name>
@@ -40,7 +40,7 @@
 
 <p>Импортируйте спутниковые снимки из системы Global Imagery Browse Services (NASA GIBS), чтобы показать, как Земля изменилась в течение последних двух лет.</p>
 
-<p><a href="http://ISUCT.github.io/IvSpaceApps/earthwatch/anitaairnow.html">Irnow international transport app (ANITA)</a></p>
+<p><a href="http://ISUCT.github.io/IvSpaceApps/earthwatch/anitaairnow.html">AirNow international transport app (ANITA)</a></p>
 
 <p>Создайте приложение, которое показывает, как крупномасштабные международные события, влияющие на качество воздуха, связаны с повседневным данными Индекса качества воздуха (AQI).</p>
 ]]></content>
